@@ -1,0 +1,70 @@
+{
+    "profiles":[
+        {
+            "basicInformation":{
+                "name":"InduPriya",
+                "role":"Technical Skill Trainser",
+                "email":"indupriya.p@apssdc.in",
+                "mobile":"7780468810"
+            },
+
+            "education":[
+
+
+
+                {
+                    "degree":"MCA",
+                    "institution":"SACET"
+
+                },
+                {
+                    "degree":"Bsc(stat)",
+                    "institution": "Bharathi Degree College"
+                },
+                {
+                    "degree":"Inter(MPC)",
+                    "institution":"Sri Vaani Jr College"
+                },
+                {
+                    "degree":"SSC",
+                    "institution": "K.G.M Girls High School"
+                }
+            ]
+        },
+
+    
+    {
+        "basicInformation":{
+        "name":"Mounika M",
+        "role":"Software Developer",
+        "email":"mouni@gmail.com",
+        "mobile":"909090909090"
+
+    },
+
+    "education":[
+
+
+        {
+            "degree":"MCA",
+            "institution":"SACET"
+
+        },
+        {
+            "degree":"B-Tech (ECE)",
+            "institution": "ABR College of Engineering and Technology"
+        },
+        {
+            "degree":"Inter(MPC",
+            "institution":"Adithya Jr College"
+        },
+        {
+            "degree":"SSC",
+            "institution": "Adithya High School"
+        }
+    ]
+}
+
+    
+]
+}

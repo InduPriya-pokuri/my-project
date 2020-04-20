@@ -1,0 +1,104 @@
+center=>css
+dir=>semantic elements
+font= css
+menu=nav
+u,s=> css(text-decoration)
+plantext,xmp=>   <pre>
+i=>  <em>
+b=>  <strong>
+
+
+
+
+
+npm install react-router-dom --save
+
+
+this is install in project location in cmd
+
+
+
+
+Github download project steps
+-----------------------------
+
+open new repository
+new should be same as projectname
+click to initize
+create repository
+remove read me file because already readme file
+click clone r download
+copy link
+
+
+go to cmd project location and install 
+           npm install gh-pages --save
+
+now github page install
+check package.json is install or not in package.json  iside gh pages or not
+
+open package.json 
+   and type starting{
+
+
+       "homepage":"http://InduPriya.github.io/my-project",
+   }
+
+go to scripts tag line no 17 add
+
+scripts{
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
+    .....
+}
+
+
+
+go to cmd and go to project location
+
+
+1.git init
+
+
+now remove readme file  in project
+
+2.git remote add origin paste url which is in clone r download
+
+3.git remote -v
+
+
+4. git pull origin master 
+(all files added
+new readme also added )
+
+5.npm run deploy
+.....take some time wait
+
+
+...Some times asked username and password gave 
+
+we got one message is published
+
+6.git add .
+7.git commit -am "my-project"
+
+
+8.git push origin master
+
+
+------ again asked user name and password ..fil it
+
+
+
+
+now go to gihut and refresh and check all files
+
+
+9.now open url in browser
+
+
+
+
+
+
+

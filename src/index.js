@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import App from './App';  //This is alias name for App./App   so gave in string
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
